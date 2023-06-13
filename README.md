@@ -102,27 +102,27 @@ You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
 
-Code Splitting
+**Code Splitting**\
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-Analyzing the Bundle Size
+**Analyzing the Bundle Size**\
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-Making a Progressive Web App
+**Making a Progressive Web App**\
 This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-Advanced Configuration
+**Advanced Configuration**\
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-**Deployment**
+**Deployment**\
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-npm run build fails to minify
+**npm run build fails to minify**\
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 **Installation Steps:**
 <!-- blank line -->
-----
+-
 <!-- blank line -->
 Install Node.js: To run a ReactJS program, you must first install Node.js on your system. You can download the latest version of Node.js from the official website https://nodejs.org/en/download/ and follow the installation instructions.
 
