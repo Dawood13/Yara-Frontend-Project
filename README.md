@@ -114,9 +114,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 **Installation Steps:**
-<!-- blank line -->
-----
-<!-- blank line -->
+
 Install Node.js: To run a ReactJS program, you must first install Node.js on your system. You can download the latest version of Node.js from the official website https://nodejs.org/en/download/ and follow the installation instructions.
 
 Create a React App: Once Node.js is installed, you can create a new React app using the create-react-app command. Open the command prompt and run the following command: npx create-react-app my-app This command will create a new React app with the name 'my-app' in the current directory.
