@@ -122,7 +122,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 **Installation Steps:**
 <!-- blank line -->
--
+----
 <!-- blank line -->
 Install Node.js: To run a ReactJS program, you must first install Node.js on your system. You can download the latest version of Node.js from the official website https://nodejs.org/en/download/ and follow the installation instructions.
 
