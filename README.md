@@ -1,6 +1,7 @@
 # Yara-Frontend-Project
 Single-page react application to visualize environmental measurements 
-Scripts used to run the project
+**Scripts used to run the project** 
+
 In the project directory, you can run:
 
 **npm start**
